@@ -1,0 +1,12 @@
+[submodule "SGI-STL"]
+	path = SGI-STL
+	url = https://github.com/steveLauwh/SGI-STL.git
+[submodule "STLport"]
+	path = STLport
+	url = https://github.com/karottc/STLport-5.2.1.git
+[submodule "MSVC-stl"]
+	path = MSVC-STL
+	url = https://github.com/microsoft/STL.git
+[submodule "LLVM-stl"]
+	path = LLVM-STL
+	url = https://github.com/llvm-mirror/libcxx.git
